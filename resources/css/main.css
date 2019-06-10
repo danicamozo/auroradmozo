@@ -1,0 +1,73 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* Use this Mixin to insert colors of theme for your web application */
+/* Created on June 9, 2019
+   Aurora Kitchen Sink
+   By: mmozo
+*/
+/* 
+   --------------- BASE COLOR SCHEME SECTION ----------------
+   Change colors according to the color scheme of your website 
+   Lines 14 - 18 are usually the ones changed while
+   Lines 21 and so on are usually kept the same 
+   ----------------------------------------------------------
+*/
+/* 
+   ------------------ STATES/ALERT COLOR SECTION ------------------
+   Usually used for alert boxes to show result of action or to give
+   information about the state of the html element
+   ----------------------------------------------------------------
+*/
+/* 
+   ------------------ SEARCH BOX COLOR SECTION ------------------
+   (please customize)
+*/
+/* 
+   ------------------ TABLE COLOR SECTION ------------------
+   (please customize)
+*/
+/* 
+   --------------- CUSTOM MADE STYLE COLOR SECTION ----------------
+                 Add your custom color styles below
+   ----------------------------------------------------------------
+*/

@@ -1,0 +1,60 @@
+/* Created on June 9, 2019
+   Aurora Kitchen Sink
+   By: mmozo
+*/
+
+// INTRODUCTION: This is only a guide for easier web design development. Add/Remove according to your website's needs.
+// This file was created for the color scheme of your website
+
+/* 
+   --------------- BASE COLOR SCHEME SECTION ----------------
+   Change colors according to the color scheme of your website 
+   Lines 14 - 18 are usually the ones changed while
+   Lines 21 and so on are usually kept the same 
+   ----------------------------------------------------------
+*/
+$light-primary-color: #8F7CD3;
+$primary-color: #7C6AB9;
+$dark-primary-color: #5B4B94;
+$secondary-color: #FAAF19;
+$highlight-link: #5B4B94;
+$base-text-color: #575757;
+
+/* 
+   ------------------ STATES/ALERT COLOR SECTION ------------------
+   Usually used for alert boxes to show result of action or to give
+   information about the state of the html element
+   ----------------------------------------------------------------
+*/
+$success: #4CAF50;
+$action: #1565C0;
+$failed: #C62828;
+$warning: #EF6C00;
+$cancel: #707070;
+
+/* 
+   ------------------ SEARCH BOX COLOR SECTION ------------------
+   (please customize)
+*/
+$sbox-head-color: #ECECEC;
+$sbox-body-color: #ECECEC;
+$sbox-text-color: #ECECEC;
+
+/* 
+   ------------------ TABLE COLOR SECTION ------------------
+   (please customize)
+*/
+$tbl-head-color: #ECECEC;
+$tbl-head-color: #ECECEC;
+$tbl-text-color: #ECECEC;
+
+/* 
+   --------------- CUSTOM MADE STYLE COLOR SECTION ----------------
+                 Add your custom color styles below
+   ----------------------------------------------------------------
+*/
+$l1: #999999;
+$l2: #3E68C9;
+$l3: #FAAF19;
+$approved: #4CAF50;
+$rejected: #B71C1C;
